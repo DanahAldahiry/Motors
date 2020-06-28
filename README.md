@@ -1,7 +1,7 @@
 # Motors
  This File contains 4 of the most popular motors used. 
  
- Two files that discussthe DC Motor (with using relays & without). 
+ Two files that discusses the DC Motor (with using relays & without). 
  
  A file about the Servo Motor. 
  
