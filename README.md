@@ -1,10 +1,10 @@
 # Motors
- This File contains 3 of the most popular motors used. 
+ This File contains 4 of the most popular motors used. 
  
- The first file is the DC Motor. 
+ Two files that discussthe DC Motor (with using relays & without). 
  
- The second file is the Servo Motor. 
+ A file about the Servo Motor. 
  
- The third file is the Stepper Motor. 
+A file about the Stepper Motor. 
  
  Inside each file you will get more information on how is it used with the help of an Arduino attached with the code and the  circuit diagram as well as a simulation of them working. 
